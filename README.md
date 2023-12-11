@@ -19,7 +19,7 @@ Please consult the provided code example below, which demonstrates how to custom
  
 Executing the code example above yields the following output.
 
-<img src="https://{yourdomain}/kb/attachment/article/14454/inline/15018" width="360">
+<img src="customizeGroupCaptionTextFormat.png" width="360">
 
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-to-customize-GroupCaptionTextFormat-in-.NET-MAUI-DataGrid/tree/860338)
 
